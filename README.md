@@ -2,7 +2,7 @@
 
 **Created:** July 2025  
 **By:** Brandon Durham  
-**Objective:** Flip cards to find matching emoji pairs. Win in the fewest turns!
+**Objective:** Flip cards to find matching emoji pairs. Try to win in the fewest turns possible!
 
 ---
 
